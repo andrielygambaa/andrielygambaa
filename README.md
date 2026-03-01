@@ -1,10 +1,3 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000bc38720e84722ddb210aa1ba&ts=492327&p=fs&cid=1&sig=5ac306220f78e728d384ba6a597b9aca512e04fceed57abf5536a510b5bdfdb7&v=0" width="100%" />
-</div>
-
-<br>
-
 ## Sobre mim  
 Sou estudante de **Tecnologia da Informação** e desenvolvedora em formação, construindo minha jornada com foco em disciplina, estratégia e evolução constante.  
 
