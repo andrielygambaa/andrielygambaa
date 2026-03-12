@@ -8,7 +8,6 @@ Atualmente estudando e aplicando **Python**, **JavaScript**, **HTML**, **CSS**, 
 
 <br></br>
 
-**Projeto em construção:** Wizdom – Plataforma educacional com cronogramas personalizados para aprovação em vestibulares.
 
 ---
 
@@ -38,8 +37,7 @@ Atualmente estudando e aplicando **Python**, **JavaScript**, **HTML**, **CSS**, 
 ---
 
 ## 🚀 Projetos e Interesses
-
-- 📚 Criadora da plataforma educacional **Wizdom**  
+ 
 - 💻 Desenvolvimento Web completo  
 - 🎨 UX/UI estratégico  
 - 📊 Organização e estruturação de dados  
