@@ -41,12 +41,6 @@ const Andriely = {
     "Excel",
     "Lógica de Programação",
     "Tecnologias Web"
-    "HTML"
-    "CSS"
-    "Python"
-    "JavaScript"
-    "PHP"
-    "mySQL"
   ],
 
   objetivo: "Transformar conhecimento em soluções reais",
