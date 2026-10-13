@@ -1,31 +1,31 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:09090b,50:6d28d9,100:c084fc&text=ANDRIELY%20GAMBA&font=Audiowide&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1C100B,50:6B3E26,100:C08A5B&text=ANDRIELY%20GAMBA&font=Audiowide&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=850&lines=OL%C3%81%2C+MUNDO!+%F0%9F%91%8B;ESTUDANTE+DE+TECNOLOGIA;DESENVOLVIMENTO+DE+SOFTWARE;DADOS+%7C+PROGRAMA%C3%87%C3%83O+%7C+IA;SEMPRE+APRENDENDO+ALGO+NOVO"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=C08A5B&center=true&vCenter=true&width=850&lines=OL%C3%81%2C+MUNDO!+%F0%9F%91%8B;ESTUDANTE+DE+TECNOLOGIA;DESENVOLVIMENTO+DE+SOFTWARE;DADOS+%7C+PROGRAMA%C3%87%C3%83O+%7C+IA;SEMPRE+APRENDENDO+ALGO+NOVO"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrielygambaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andrielygamba)
+[![GitHub](https://img.shields.io/badge/GitHub-1C100B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrielygambaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B3E26?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrielygamba)
 
 </div>
 
 ---
 
-## 💜 `whoami` — Sobre mim
+## 🤎 `whoami` — Sobre mim
 
 ```javascript
 const Andriely = {
   nome: "Andriely Gamba",
   area: "Tecnologia da Informação",
   estudos: "Tecnologia e Desenvolvimento de Software",
-  localização: "São Paulo, Brasil 🇧🇷"
+  localização: "São Paulo, Brasil 🇧🇷",
 
   formação: {
     atual: "Tecnologia da Informação - Centro Universitário Adventista de São Paulo",
     objetivo: "Engenharia de Software"
-},
+  },
 
   interesses: [
     "Desenvolvimento de Software",
@@ -44,7 +44,6 @@ const Andriely = {
   ],
 
   objetivo: "Transformar conhecimento em soluções reais",
-
   mindset: "Aprender, desenvolver e evoluir"
 };
 ```
@@ -55,7 +54,7 @@ Gosto de aprender novas ferramentas, desenvolver projetos e ampliar meus conheci
 
 Acredito que cada projeto é uma oportunidade de aprender algo novo, experimentar possibilidades e evoluir tanto profissionalmente quanto pessoalmente.
 
-> ✨ Transformando curiosidade em conhecimento e conhecimento em projetos.
+> 🤎 Transformando curiosidade em conhecimento e conhecimento em projetos.
 
 ---
 
@@ -71,7 +70,7 @@ Acredito que cada projeto é uma oportunidade de aprender algo novo, experimenta
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-6B3E26?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
@@ -93,7 +92,7 @@ Atualmente, estou ampliando meus conhecimentos em diferentes áreas da tecnologi
 [05] Inteligência Artificial Generativa
 [06] Banco de Dados e SQL
 
-STATUS: APRENDIZADO CONTÍNUO 
+STATUS: APRENDIZADO CONTÍNUO 🤎
 ```
 
 ---
@@ -158,17 +157,17 @@ Acredito que colocar o conhecimento em prática é uma das melhores maneiras de 
 ```text
        💡 IDEIA
           ↓
-    🔎 PESQUISA
+      🔎 PESQUISA
           ↓
-   🧠 PLANEJAMENTO
+    🧠 PLANEJAMENTO
           ↓
-    💻 DESENVOLVIMENTO
+  💻 DESENVOLVIMENTO
           ↓
-      🧪 TESTES
+       🧪 TESTES
           ↓
-     🚀 EVOLUÇÃO
+      🚀 EVOLUÇÃO
 
-  APRENDER → CRIAR → TESTAR → MELHORAR
+APRENDER → CRIAR → TESTAR → MELHORAR
 ```
 
 Meu objetivo é desenvolver uma base sólida em tecnologia, aprender com desafios e construir soluções cada vez melhores.
@@ -179,13 +178,13 @@ Meu objetivo é desenvolver uma base sólida em tecnologia, aprender com desafio
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrielygambaa&show_icons=true&theme=midnight-purple&include_all_commits=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrielygambaa&show_icons=true&theme=dark&bg_color=1C100B&title_color=C08A5B&text_color=F5E6D3&icon_color=C08A5B&border_color=6B3E26&include_all_commits=true&hide_border=false"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrielygambaa&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrielygambaa&layout=compact&langs_count=8&theme=dark&bg_color=1C100B&title_color=C08A5B&text_color=F5E6D3&border_color=6B3E26&hide_border=false"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrielygambaa&theme=midnight-purple&hide_border=true"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrielygambaa&background=1C100B&ring=C08A5B&fire=DDA15E&currStreakLabel=C08A5B&sideLabels=C08A5B&currStreakNum=F5E6D3&sideNums=F5E6D3&dates=BDA58A&border=6B3E26"/>
 
 </div>
 
@@ -211,19 +210,20 @@ Acredito que a tecnologia está sempre evoluindo e que manter a curiosidade, a d
 <div align="center">
 
 <a href="https://github.com/andrielygambaa">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-1C100B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/andrielygamba">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/andrielygamba">
+<img src="https://img.shields.io/badge/LinkedIn-6B3E26?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 💜 Obrigada por visitar meu perfil!
+### 🤎 Obrigada por visitar meu perfil!
 
 *Cada linha de código é uma nova oportunidade de aprender.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:09090b,50:6d28d9,100:c084fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1C100B,50:6B3E26,100:C08A5B"/>
 
 </div>
+```
