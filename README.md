@@ -13,7 +13,7 @@
 
 ---
 
-## 🤎 `whoami` — Sobre mim
+## `whoami` — Sobre mim
 
 ```javascript
 const Andriely = {
@@ -54,7 +54,7 @@ Gosto de aprender novas ferramentas, desenvolver projetos e ampliar meus conheci
 
 Acredito que cada projeto é uma oportunidade de aprender algo novo, experimentar possibilidades e evoluir tanto profissionalmente quanto pessoalmente.
 
-> 🤎 Transformando curiosidade em conhecimento e conhecimento em projetos.
+> Transformando curiosidade em conhecimento e conhecimento em projetos.
 
 ---
 
