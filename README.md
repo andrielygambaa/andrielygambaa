@@ -92,7 +92,7 @@ Atualmente, estou ampliando meus conhecimentos em diferentes áreas da tecnologi
 [05] Inteligência Artificial Generativa
 [06] Banco de Dados e SQL
 
-STATUS: APRENDIZADO CONTÍNUO 🤎
+STATUS: APRENDIZADO CONTÍNUO 
 ```
 
 ---
@@ -156,16 +156,16 @@ Acredito que colocar o conhecimento em prática é uma das melhores maneiras de 
 
 ```text
        💡 IDEIA
-          ↓
+           ↓
       🔎 PESQUISA
-          ↓
+           ↓
     🧠 PLANEJAMENTO
-          ↓
+           ↓
   💻 DESENVOLVIMENTO
-          ↓
-       🧪 TESTES
-          ↓
-      🚀 EVOLUÇÃO
+           ↓
+      🧪 TESTES
+           ↓
+     🚀 EVOLUÇÃO
 
 APRENDER → CRIAR → TESTAR → MELHORAR
 ```
@@ -226,4 +226,4 @@ Acredito que a tecnologia está sempre evoluindo e que manter a curiosidade, a d
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1C100B,50:6B3E26,100:C08A5B"/>
 
 </div>
-```
+
